@@ -14,7 +14,7 @@
  * @wordpress-plugin
  * Plugin Name:       Conversios.io - Server Side Tagging
  * Plugin URI:        https://www.conversios.io/
- * Description:       Track Ecommerce events and conversions in Google Analytics, GA4, Google Ads, Facebook Pixel, Snapchat, Pinterest, Tiktok, Bing via Google Tag Manager. Build dynamic audiences and track ROAS performance in Google Ads, Meta (Facebook + Instagram), Snapchat, Pinterest, Tiktok, Microsoft Ads and Twitter to run successful shopping campaigns. Automate your product feed to Google Merchant Center for running performance max campaigns for your WooCommerce products to boost ROAS (Revenue on Ad Spends)...
+ * Description:       Track Ecommerce events and conversions in Google Analytics, GA4, Google Ads, Facebook Pixel, Snapchat, Pinterest, Tiktok, Bing via Google Tag Manager. Build dynamic audiences and track ROAS performance in Google Ads, Meta (Facebook + Instagram), Snapchat, Pinterest, Tiktok, Microsoft Ads and Twitter to run successful shopping campaigns. Automate your product feed to Google Merchant Center for running performance max campaigns for your WooCommerce products to boost ROAS (Revenue on Ad Spends).
  * Version:           1.0.0
  * Author:            Conversios
  * Author URI:        conversios.io
